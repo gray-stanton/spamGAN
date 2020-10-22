@@ -1,3 +1,5 @@
+ARCHIVED VERSION, NOT SUPPORTED. For most recent SpamGAN work, see: https://github.com/YankunShen/spamGAN
+
 # SpamGAN Code
 GANs for Semi-Supervised Opinion Spam Detection
 Code from: https://arxiv.org/abs/1903.08289
